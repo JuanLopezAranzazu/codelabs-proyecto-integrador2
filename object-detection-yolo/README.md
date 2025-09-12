@@ -1,4 +1,4 @@
-# Codelab Introducción a TensorFlow y Keras con un ejemplo práctico XOR
+# Codelab Detección de objetos en imágenes con Yolo Lite
 
 ## Preparación del entorno
 
@@ -18,5 +18,7 @@ pip install -r requirements.txt
 
 Para correr el programa usar el siguiente comando:
 ```bash
-python main.py
+python detect_image.py
+python detect_webcam.py
+python export_json.py
 ```

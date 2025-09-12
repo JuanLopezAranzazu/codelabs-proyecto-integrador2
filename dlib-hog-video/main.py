@@ -1,7 +1,7 @@
 import cv2, dlib, time
 
 # video
-# detector = dlib.get_frontal_face_detector()
+detector = dlib.get_frontal_face_detector()
 # cap = cv2.VideoCapture('video_rostros.mp4')  # sube tu video corto
 
 # prev = time.time(); frames=0
