@@ -18,5 +18,6 @@ pip install -r requirements.txt
 
 Para correr el programa usar el siguiente comando:
 ```bash
-python main.py
+python detect_video.py
+python detect_webcam.py
 ```
