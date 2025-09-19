@@ -1,0 +1,97 @@
+Text,Sentiment,Text_es,Text_clean
+I love this product!,1.0,¡Amo este producto!,amo este producto
+The service was terrible.,0.0,El servicio fue terrible.,el servicio fue terrible
+This movie is amazing!,1.0,¡Esta película es increíble!,esta película es increíble
+I'm so disappointed with their customer support.,0.0,Estoy muy decepcionado con su atención al cliente.,estoy muy decepcionado con su atención al cliente
+Just had the best meal of my life!,1.0,¡Acabo de tener la mejor comida de mi vida!,acabo de tener la mejor comida de mi vida
+The quality of this product is subpar.,0.0,La calidad de este producto es deficiente.,la calidad de este producto es deficiente
+I can't stop listening to this song. It's incredible!,1.0,No puedo dejar de escuchar esta canción. ¡Es increíble!,no puedo dejar de escuchar esta canción es increíble
+Their website is so user-friendly. Love it!,1.0,Su sitio web es tan fácil de usar. ¡Me encanta!,su sitio web es tan fácil de usar me encanta
+I loved the movie! It was fantastic!,1.0,¡Me encantó la película! ¡Fue fantástico!,me encantó la película fue fantástico
+The customer service was terrible.,0.0,El servicio al cliente fue terrible.,el servicio al cliente fue terrible
+This book made me feel inspired. Highly recommended!,1.0,Este libro me hizo sentir inspirado. ¡Muy recomendable!,este libro me hizo sentir inspirado muy recomendable
+I'm extremely disappointed with their product quality.,0.0,Estoy extremadamente decepcionado con la calidad de su producto.,estoy extremadamente decepcionado con la calidad de su producto
+Just had the most amazing vacation! I can't wait to go back.,1.0,¡Acabo de tener las vacaciones más increíbles! No puedo esperar para volver.,acabo de tener las vacaciones más increíbles no puedo esperar para volver
+The food at this restaurant was awful. Never going back again!,0.0,La comida en este restaurante era horrible. ¡Nunca volver a volver!,la comida en este restaurante era horrible nunca volver a volver
+I can't stop listening to this song. It's my new favorite!,1.0,No puedo dejar de escuchar esta canción. ¡Es mi nuevo favorito!,no puedo dejar de escuchar esta canción es mi nuevo favorito
+Their website is so confusing and poorly designed.,0.0,Su sitio web es muy confuso y mal diseñado.,su sitio web es muy confuso y mal diseñado
+I had an incredible experience at the theme park. So much fun!,1.0,Tuve una experiencia increíble en el parque temático. ¡Muy divertido!,tuve una experiencia increíble en el parque temático muy divertido
+The product arrived damaged. Very disappointed.,0.0,El producto llegó dañado. Muy decepcionado.,el producto llegó dañado muy decepcionado
+The concert was absolutely breathtaking. Best performance ever!,1.0,El concierto fue absolutamente impresionante. ¡Mejor actuación de todos!,el concierto fue absolutamente impresionante mejor actuación de todos
+I had a terrible experience with their customer support.,0.0,Tuve una experiencia terrible con su atención al cliente.,tuve una experiencia terrible con su atención al cliente
+This movie is a masterpiece! I was blown away.,1.0,¡Esta película es una obra maestra! Me quedé impresionado.,esta película es una obra maestra me quedé impresionado
+The customer service at this store is top-notch.,1.0,El servicio al cliente en esta tienda es de primera categoría.,el servicio al cliente en esta tienda es de primera categoría
+I'm disappointed with the ending of this book. It fell flat.,0.0,Estoy decepcionado con el final de este libro. Cayó plano.,estoy decepcionado con el final de este libro cayó plano
+The product I received was damaged. Unacceptable.,0.0,El producto que recibí fue dañado. Inaceptable.,el producto que recibí fue dañado inaceptable
+Just had the worst flight experience. Delayed and rude staff.,0.0,Solo tuve la peor experiencia de vuelo. Personal retrasado y grosero.,solo tuve la peor experiencia de vuelo personal retrasado y grosero
+The hotel stay was absolutely amazing! Luxury at its finest.,1.0,¡La estadía del hotel fue absolutamente increíble! Lujo en su máxima expresión.,la estadía del hotel fue absolutamente increíble lujo en su máxima expresión
+The food at this restaurant was outstanding. Highly recommended!,1.0,La comida en este restaurante fue excepcional. ¡Muy recomendable!,la comida en este restaurante fue excepcional muy recomendable
+This playlist is my go-to for workouts. Energizing and motivating!,1.0,Esta lista de reproducción es mi opción para los entrenamientos. ¡Energizante y motivador!,esta lista de reproducción es mi opción para los entrenamientos energizante y motivador
+I had a frustrating experience navigating through their website.,0.0,Tuve una experiencia frustrante navegando a través de su sitio web.,tuve una experiencia frustrante navegando a través de su sitio web
+The roller coaster ride was thrilling! Heart-pounding excitement!,1.0,¡El paseo en la montaña rusa fue emocionante! ¡Excitación con el corazón sincero!,el paseo en la montaña rusa fue emocionante excitación con el corazón sincero
+The product I ordered never arrived. Terrible service.,0.0,El producto que pedí nunca llegó. Terrible servicio.,el producto que pedí nunca llegó terrible servicio
+I can't get enough of this band. Their music is incredible!,1.0,No puedo tener suficiente de esta banda. ¡Su música es increíble!,no puedo tener suficiente de esta banda su música es increíble
+I had a great chat with their customer support. Helpful and friendly.,1.0,Tuve una gran conversación con su atención al cliente. Servicial y amable.,tuve una gran conversación con su atención al cliente servicial y amable
+This restaurant has the most delicious food. I can't wait to go back!,1.0,Este restaurante tiene la comida más deliciosa. ¡No puedo esperar para volver!,este restaurante tiene la comida más deliciosa no puedo esperar para volver
+The product I purchased broke within a week. Poor quality.,0.0,El producto que compré se rompió en una semana. Mala calidad.,el producto que compré se rompió en una semana mala calidad
+This book is thought-provoking and beautifully written. Highly recommended!,1.0,Este libro es estimulante y bellamente escrito. ¡Muy recomendable!,este libro es estimulante y bellamente escrito muy recomendable
+The customer service at this store is exceptional. They went above and beyond.,1.0,El servicio al cliente en esta tienda es excepcional. Fueron más allá.,el servicio al cliente en esta tienda es excepcional fueron más allá
+I had a terrible experience with their technical support. No resolution.,0.0,Tuve una experiencia terrible con su apoyo técnico. Sin resolución.,tuve una experiencia terrible con su apoyo técnico sin resolución
+The live concert was electrifying! The band's energy was contagious.,1.0,¡El concierto en vivo fue electrizante! La energía de la banda era contagiosa.,el concierto en vivo fue electrizante la energía de la banda era contagiosa
+I'm disappointed with the food at this restaurant. It was tasteless.,0.0,Estoy decepcionado con la comida en este restaurante. No tenía sabor.,estoy decepcionado con la comida en este restaurante no tenía sabor
+This song always puts me in a good mood. It's my go-to feel-good track!,1.0,Esta canción siempre me pone de buen humor. ¡Es mi pista para sentirse bien!,esta canción siempre me pone de buen humor es mi pista para sentirse bien
+The website is slow and unresponsive. Difficult to navigate.,0.0,El sitio web es lento e insensible. Difícil de navegar.,el sitio web es lento e insensible difícil de navegar
+The roller coaster ride was exhilarating! Pure adrenaline rush!,1.0,¡El paseo en la montaña rusa fue emocionante! ¡Adrenalina pura!,el paseo en la montaña rusa fue emocionante adrenalina pura
+The product I ordered arrived damaged. Very disappointed with the packaging.,0.0,El producto que pedí llegó dañado. Muy decepcionado con el empaque.,el producto que pedí llegó dañado muy decepcionado con el empaque
+I'm captivated by this band's unique sound. They're a breath of fresh air!,1.0,Estoy cautivado por el sonido único de esta banda. ¡Son un soplo de aire fresco!,estoy cautivado por el sonido único de esta banda son un soplo de aire fresco
+The customer support was quick to respond and resolved my issue. Impressed!,1.0,La atención al cliente respondió rápidamente y resolvió mi problema. ¡Impresionado!,la atención al cliente respondió rápidamente y resolvió mi problema impresionado
+This restaurant has the best food. I highly recommend it!,1.0,Este restaurante tiene la mejor comida. ¡Lo recomiendo encarecidamente!,este restaurante tiene la mejor comida lo recomiendo encarecidamente
+The plot of this movie is confusing and hard to follow.,0.0,La trama de esta película es confusa y difícil de seguir.,la trama de esta película es confusa y difícil de seguir
+I'm addicted to this game. It's so much fun!,1.0,Soy adicto a este juego. ¡Es muy divertido!,soy adicto a este juego es muy divertido
+The customer service at this hotel was terrible. Avoid at all costs.,0.0,El servicio al cliente en este hotel fue terrible. Evite a toda costa.,el servicio al cliente en este hotel fue terrible evite a toda costa
+This book bored me to tears. I couldn't finish it.,0.0,Este libro me aburrió hasta las lágrimas. No pude terminarlo.,este libro me aburrió hasta las lágrimas no pude terminarlo
+I'm impressed with the sound quality of these headphones. Excellent!,1.0,Estoy impresionado con la calidad de sonido de estos auriculares. ¡Excelente!,estoy impresionado con la calidad de sonido de estos auriculares excelente
+The website design is sleek and user-friendly. Easy to navigate.,1.0,El diseño del sitio web es elegante y fácil de usar. Fácil de navegar.,el diseño del sitio web es elegante y fácil de usar fácil de navegar
+I had a terrible experience with their delivery service. Late and unprofessional.,0.0,Tuve una experiencia terrible con su servicio de entrega. Tarde y poco profesional.,tuve una experiencia terrible con su servicio de entrega tarde y poco profesional
+The concert was mind-blowing! The band knows how to put on a show.,1.0,¡El concierto fue alucinante! La banda sabe cómo organizar un espectáculo.,el concierto fue alucinante la banda sabe cómo organizar un espectáculo
+I'm extremely disappointed with the customer support. No resolution.,0.0,Estoy extremadamente decepcionado con la atención al cliente. Sin resolución.,estoy extremadamente decepcionado con la atención al cliente sin resolución
+The hotel staff were rude and unprofessional. Terrible customer service.,0.0,El personal del hotel era grosero y poco profesional. Terrible servicio al cliente.,el personal del hotel era grosero y poco profesional terrible servicio al cliente
+The food at this restaurant was mediocre. Nothing special.,0.0,La comida en este restaurante era mediocre. Nada especial.,la comida en este restaurante era mediocre nada especial
+This song always puts me in a nostalgic mood. It reminds me of good times.,1.0,Esta canción siempre me pone en un estado de ánimo nostálgico. Me recuerda a los buenos tiempos.,esta canción siempre me pone en un estado de ánimo nostálgico me recuerda a los buenos tiempos
+The website loading speed is frustratingly slow. Needs improvement.,0.0,La velocidad de carga del sitio web es frustrantemente lenta. Necesita mejora.,la velocidad de carga del sitio web es frustrantemente lenta necesita mejora
+The food at this cafe exceeded my expectations. Absolutely delicious!,1.0,La comida en este café superó mis expectativas. ¡Absolutamente delicioso!,la comida en este café superó mis expectativas absolutamente delicioso
+I'm disappointed with the ending of this TV show. It left too many unanswered questions.,0.0,Estoy decepcionado con el final de este programa de televisión. Dejó demasiadas preguntas sin respuesta.,estoy decepcionado con el final de este programa de televisión dejó demasiadas preguntas sin respuesta
+This album is a masterpiece. Every song is a work of art!,1.0,Este álbum es una obra maestra. ¡Cada canción es una obra de arte!,este álbum es una obra maestra cada canción es una obra de arte
+The website layout is cluttered and confusing. Difficult to find information.,0.0,El diseño del sitio web es desordenado y confuso. Difícil encontrar información.,el diseño del sitio web es desordenado y confuso difícil encontrar información
+The roller coaster at this theme park is a thrilling experience. A must-try!,1.0,La montaña rusa en este parque temático es una experiencia emocionante. ¡Una visita obligada!,la montaña rusa en este parque temático es una experiencia emocionante una visita obligada
+The product I ordered never arrived. Poor customer service.,0.0,El producto que pedí nunca llegó. Mal servicio al cliente.,el producto que pedí nunca llegó mal servicio al cliente
+I'm in awe of this artist's talent. Their paintings are breathtaking!,1.0,Estoy asombrado del talento de este artista. ¡Sus pinturas son impresionantes!,estoy asombrado del talento de este artista sus pinturas son impresionantes
+The food at this restaurant was disappointing. Not worth the price.,0.0,La comida en este restaurante fue decepcionante. No vale la pena el precio.,la comida en este restaurante fue decepcionante no vale la pena el precio
+This playlist is perfect for relaxation. Soothing and calming!,1.0,Esta lista de reproducción es perfecta para la relajación. ¡Calmante y calmante!,esta lista de reproducción es perfecta para la relajación calmante y calmante
+The website navigation is smooth and intuitive. I found what I needed quickly.,1.0,La navegación del sitio web es fluida e intuitiva. Encontré lo que necesitaba rápidamente.,la navegación del sitio web es fluida e intuitiva encontré lo que necesitaba rápidamente
+The ride on this cruise ship was an unforgettable experience. I loved every moment!,1.0,El viaje en este crucero fue una experiencia inolvidable. ¡Me encantó cada momento!,el viaje en este crucero fue una experiencia inolvidable me encantó cada momento
+The product I received was of poor quality. It broke after a few uses.,0.0,El producto que recibí era de mala calidad. Se rompió después de algunos usos.,el producto que recibí era de mala calidad se rompió después de algunos usos
+This book kept me hooked from start to finish. A captivating read!,1.0,Este libro me mantuvo enganchado de principio a fin. ¡Una lectura cautivadora!,este libro me mantuvo enganchado de principio a fin una lectura cautivadora
+The customer service at this store is outstanding. They truly care about their customers.,1.0,El servicio al cliente en esta tienda es excepcional. Realmente se preocupan por sus clientes.,el servicio al cliente en esta tienda es excepcional realmente se preocupan por sus clientes
+I had a frustrating experience with their technical support. No resolution provided.,0.0,Tuve una experiencia frustrante con su apoyo técnico. No se proporciona resolución.,tuve una experiencia frustrante con su apoyo técnico no se proporciona resolución
+The hotel staff were rude and unprofessional. Terrible customer service.,0.0,El personal del hotel era grosero y poco profesional. Terrible servicio al cliente.,el personal del hotel era grosero y poco profesional terrible servicio al cliente
+The food at this restaurant was mediocre. Nothing special.,0.0,La comida en este restaurante era mediocre. Nada especial.,la comida en este restaurante era mediocre nada especial
+This song always puts me in a nostalgic mood. It reminds me of good times.,1.0,Esta canción siempre me pone en un estado de ánimo nostálgico. Me recuerda a los buenos tiempos.,esta canción siempre me pone en un estado de ánimo nostálgico me recuerda a los buenos tiempos
+The website loading speed is frustratingly slow. Needs improvement.,0.0,La velocidad de carga del sitio web es frustrantemente lenta. Necesita mejora.,la velocidad de carga del sitio web es frustrantemente lenta necesita mejora
+I love this product!,1.0,¡Amo este producto!,amo este producto
+The service was terrible.,0.0,El servicio fue terrible.,el servicio fue terrible
+This movie is amazing!,1.0,¡Esta película es increíble!,esta película es increíble
+I'm so disappointed with their customer support.,0.0,Estoy muy decepcionado con su atención al cliente.,estoy muy decepcionado con su atención al cliente
+Just had the best meal of my life!,1.0,¡Acabo de tener la mejor comida de mi vida!,acabo de tener la mejor comida de mi vida
+The quality of this product is subpar.,0.0,La calidad de este producto es deficiente.,la calidad de este producto es deficiente
+I can't stop listening to this song. It's incredible!,1.0,No puedo dejar de escuchar esta canción. ¡Es increíble!,no puedo dejar de escuchar esta canción es increíble
+Their website is so user-friendly. Love it!,1.0,Su sitio web es tan fácil de usar. ¡Me encanta!,su sitio web es tan fácil de usar me encanta
+I loved the movie! It was fantastic!,1.0,¡Me encantó la película! ¡Fue fantástico!,me encantó la película fue fantástico
+The customer service was terrible.,0.0,El servicio al cliente fue terrible.,el servicio al cliente fue terrible
+This book made me feel inspired. Highly recommended!,1.0,Este libro me hizo sentir inspirado. ¡Muy recomendable!,este libro me hizo sentir inspirado muy recomendable
+I'm extremely disappointed with their product quality.,0.0,Estoy extremadamente decepcionado con la calidad de su producto.,estoy extremadamente decepcionado con la calidad de su producto
+Just had the most amazing vacation! I can't wait to go back.,1.0,¡Acabo de tener las vacaciones más increíbles! No puedo esperar para volver.,acabo de tener las vacaciones más increíbles no puedo esperar para volver
+The food at this restaurant was awful. Never going back again!,0.0,La comida en este restaurante era horrible. ¡Nunca volver a volver!,la comida en este restaurante era horrible nunca volver a volver
+I can't stop listening to this song. It's my new favorite!,1.0,No puedo dejar de escuchar esta canción. ¡Es mi nuevo favorito!,no puedo dejar de escuchar esta canción es mi nuevo favorito
+Their website is so confusing and poorly designed.,0.0,Su sitio web es muy confuso y mal diseñado.,su sitio web es muy confuso y mal diseñado
+I had an incredible experience at the theme park. So much fun!,1.0,Tuve una experiencia increíble en el parque temático. ¡Muy divertido!,tuve una experiencia increíble en el parque temático muy divertido
