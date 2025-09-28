@@ -1,15 +1,15 @@
-# Codelab Scraping de Noticias
+# Codelab Scraping de E-commerce
 
 ## Objetivo
 
-Aprender a extraer información de sitios de noticias usando `requests` y `BeautifulSoup`.
+Aprender a extraer información de productos de sitios de e-commerce, manejar paginación y estructurar datos complejos.
 
 ## Herramientas
 
 - **requests**: Para hacer peticiones HTTP
 - **BeautifulSoup**: Para parsear HTML
-- **pandas**: Para análisis de datos
-- **csv**: Para guardar datos
+- **pandas**: Para análisis y limpieza de datos
+- **urllib.parse**: Para manejar URLs
 
 ## Preparación del entorno
 
